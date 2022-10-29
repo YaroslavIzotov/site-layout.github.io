@@ -1,0 +1,389 @@
+body {
+   
+    margin: 0;
+}
+.container{
+    margin:0px 37px;
+}
+
+.header {
+    
+    background-color: black;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.name {
+    color: #C62B2B;
+    width: 500px;
+    height: 50px;
+    font-size: 50px
+}
+
+.header-line {
+    padding-top: 18px;
+    display: flex;
+    align-items: center;
+}
+
+.nav {
+    /*margin: 0px 422px;*/
+    
+    line-height: 38.73pxpx;
+}
+
+.nav-item {
+    color: #B07E7E;
+    text-decoration: none;
+    font-size: 36px;
+    margin-right: 70px;  
+}
+
+.button {
+    background-color: #D52A49;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 10px;
+    font-size: 36px;
+}
+
+/* Img */
+
+/*.order img{
+    
+ }  */
+
+.order__img {
+    height: 275px;
+    width: 301px;
+    /*margin: 50px 50px;*/
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 47px;
+}
+
+.Menu {
+    margin: -280px 800px;
+}
+
+.Menu__img {
+    height: 595px;
+    width: 500px;
+    
+    
+}
+
+.Hh {
+    margin: 2px 50px;
+    
+}
+
+.Hh__img{
+    height: 275px;
+    margin-right: 95px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bodyn {
+    
+    background-color: black;
+    /*font-style: italic;*/
+
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cont{
+    padding-top: 25px;
+    margin: 0px 37px;
+}
+
+
+.bodyn_linear{
+    
+    display: block ;
+}
+
+.navig{
+    
+/*margin:  15px;*/
+position: relative;
+line-height: 60px;   
+height: 40px;
+}
+
+.navig_item {
+   
+margin-left: 210px;
+margin-right: -50px;
+letter-spacing: -0.5px;
+justify-content: center; 
+font-size: 30px;
+color: #fff;
+text-decoration: none;
+
+
+
+
+}
+
+hr{
+margin-top: 12px;    
+position: relative;  
+}
+
+/*.packs__img{
+
+}*/
+
+
+.pack__img {
+    
+    margin: -55px 180px;
+    height: 900px;
+    width: 1400px;
+}
+
+.name_pack{
+    margin: -735px 195px;
+    font-size: 38px;
+    
+}
+
+.name_pack_1{
+    margin: 0px -10px;
+    color: #fff ;
+}
+
+.name_pack_col{
+    color: #C1D15B;
+    margin: -88px 57px;
+    
+}
+
+.name_pack_col2{
+    color: #C7D95B;
+    margin: 88px 145px;
+    
+}
+
+/*Price*/
+
+.price_pack1{
+
+font-style:normal;
+margin: -565px 340px;
+/*position: relative;*/
+color: #fff;
+font-size: 48px;
+line-height: 50px;
+/*font-weight: 550;*/
+}
+
+.min_price{
+    margin: 860px 1400px;
+    /*text-align: center;*/
+    color: #fff;
+    font-size: 40px;
+}
+/*order*/
+
+.o_now {
+    margin-top: 600px;
+    margin-left: 235px;
+/*line-height: 1200px;*/
+color: #C7D95B;
+font-size: 40px;
+}
+
+.o_now2 {
+    margin-top: -480px;
+    margin-left: 1170px;
+    text-align: center;
+/*line-height: 1200px;*/
+color: #C7D95B;
+font-size: 40px;
+}
+
+/*Size*/
+
+.size_m{
+    margin: 250px 300px;
+    
+    color: #C7D95B;
+    font-size: 40px;
+}
+
+.Full_size{
+   
+    margin: -250px 300px;
+    font-size: 40px;
+    color: #fff;
+}
+
+.size_m2{
+    margin: 320px 1235px;
+    
+    color: #C7D95B;
+    font-size: 40px;
+}
+
+.Full_size2{
+   /* display: inline-block;*/
+    width: 600px;
+    margin: -320px 1236px;
+    font-size: 40px;
+    color: #fff;
+}
+
+
+
+
+
+
+
+.menyyl {
+    background-color: #301E1E;
+    height:100vh;
+}
+
+.backg_text{
+    margin: 20px 220px ;
+
+}
+
+.text_strong{
+    margin: -350px 247px ;
+    font-size: 45px;
+}
+
+.text{
+    margin: 380px 245px;
+    font-size: 44px;
+}
+
+.text_col{
+    color: #C7D95B;
+    margin: -365px 250px;
+    font-size: 45px;
+}
+
+.burger{
+    padding-left: 900px;
+    margin-top: 60px ;
+    height: 328px;
+}
+
+.top__item{
+    margin: 60px 270px;
+    color: #C1D15B;
+    font-size: 45px;
+}
+
+.oz8_andpicture{
+    margin-top: -30px;
+}
+
+.The_oz{
+margin: 100px 250px ;
+font-size: 45px;
+}
+
+.The_oz1{
+    color: #F6B2B2;
+}
+
+.price_oz{
+    margin:-60px 265px;
+    
+}
+
+.price_oz1{
+    color: #C7D95B;
+    font-size: 45px;
+}
+
+.img_8oz {
+    margin:-200px 460px;
+}
+
+
+
+.classic{
+    margin: 230px 220px;
+    color: #F6B2B2;
+    font-size: 45px;
+}
+
+.classic_price {
+    margin: -185px 265px;
+    font-size: 45px;
+    color: #C7D95B;
+}
+
+.classic_img{
+    margin: 25px 460px;
+}
+
+.Garlic_Fries{
+    margin: -430px 800px;
+
+    color: #F6B2B2;
+    font-size: 45px;
+}
+
+.Garlic_Fries_price{
+    margin: 370px 870px;
+
+    font-size: 45px;
+    color: #C7D95B;
+}
+
+
+.Garlic_Fries_img{
+    margin: -555px 1160px;
+}
+
+.Union{
+    margin: 595px 800px;
+    color: #F6B2B2;
+    font-size: 45px;
+}
+
+.Union_price{
+    margin: -560px 830px;
+    color: #C7D95B;
+    font-size: 45px;
+}
+
+.Union_img{
+    margin: 405px 1160px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
